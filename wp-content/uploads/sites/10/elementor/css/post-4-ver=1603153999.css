@@ -1,0 +1,158 @@
+.elementor-kit-4 {
+    --e-global-color-primary: #6EC1E4;
+    --e-global-color-secondary: #54595F;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-7b467a49: #4054B2;
+    --e-global-color-6b479e36: #23A455;
+    --e-global-color-39801056: #000;
+    --e-global-color-2c924a1f: #FFF;
+    --e-global-color-73da19cd: #181A48;
+    --e-global-color-4b5cbda5: #4E4E4E;
+    --e-global-color-cdb9736: #717171;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Roboto";
+    --e-global-typography-accent-font-weight: 500;
+    color: #717171;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 34px;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-4 a {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+}
+
+.elementor-kit-4 h1 {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 76px;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-4 h2 {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 35px;
+    line-height: 46px;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-4 h3 {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-4 h4 {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-4 h5 {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}
+
+.elementor-kit-4 h6 {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.elementor-kit-4 button,
+.elementor-kit-4 input[type="button"],
+.elementor-kit-4 input[type="submit"],
+.elementor-kit-4 .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    background-color: #00C89C;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #00C89C;
+    border-radius: 50px 50px 50px 50px;
+    padding: 20px 50px 20px 50px;
+}
+
+.elementor-kit-4 button:hover,
+.elementor-kit-4 button:focus,
+.elementor-kit-4 input[type="button"]:hover,
+.elementor-kit-4 input[type="button"]:focus,
+.elementor-kit-4 input[type="submit"]:hover,
+.elementor-kit-4 input[type="submit"]:focus,
+.elementor-kit-4 .elementor-button:hover,
+.elementor-kit-4 .elementor-button:focus {
+    color: #00C89C;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #00C89C;
+    border-radius: 50px 50px 50px 50px;
+}
+
+.elementor-kit-4 label {
+    color: #181A48;
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.elementor-kit-4 input:not([type="button"]):not([type="submit"]),
+.elementor-kit-4 textarea,
+.elementor-kit-4 .elementor-field-textual {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #181A48;
+    background-color: #FFFFFF;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #EDEDF8;
+    border-radius: 2px 2px 2px 2px;
+}
+
+.elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1140px;
+}
+
+ {
+}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media (max-width:1024px){
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 1025px;
+    }
+}
+
+@media (max-width:767px){
+    .elementor-section.elementor-section-boxed > .elementor-container {
+        max-width: 768px;
+    }
+}
