@@ -84,8 +84,8 @@
     }
 
     .elementor-464 .elementor-element-f2cfbce .elementor-image img {
-        width: 500px !important;
-        max-width: 900px !important;
+        width: 100vw !important;
+        max-width: 600px !important;
         padding-left: 0px !important;
         margin-left: -70px !important;
     }
