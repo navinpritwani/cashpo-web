@@ -74,8 +74,9 @@
 
 @media only screen and (max-width:575px) {
     .elementor.elementor-464 .elementor-element-4578c830 .elementor-image img {
-        max-width: 460px !important;
         margin-top: 20px !important;
+        max-width: 490px !important;
+        width: 100vw !important;
     }
 
     .elementor-379 .elementor-element-478c32af .elementor-image img {
