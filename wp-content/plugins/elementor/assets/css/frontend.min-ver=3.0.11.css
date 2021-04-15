@@ -916,7 +916,8 @@ h1.entry-title {
     position: relative;
     display: -webkit-box;
     display: -ms-flexbox;
-    display: flex;
+
+    /*display: flex */
 }
 
 .elementor-column-wrap {

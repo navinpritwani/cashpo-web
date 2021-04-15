@@ -24,6 +24,7 @@
 .elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated {
     padding: 10px;
     margin-top: -5px;
+    align-items: center;
 }
 
 .elementor-column-gap-extended>.elementor-row>.elementor-column>.elementor-element-populated {

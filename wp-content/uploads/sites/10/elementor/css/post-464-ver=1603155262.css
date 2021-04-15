@@ -111,9 +111,9 @@
 }
 
 .elementor-464 .elementor-element.elementor-element-4578c830 .elementor-image img {
-    margin-top: 7em;
+    margin-top: 9em;
     max-width: 580vw;
-    width: 628px;
+    width: 400px;
 }
 
 @media (max-width:768) {
@@ -370,7 +370,7 @@ body.rtl .elementor-464 .elementor-element.elementor-element-44155366 {
 }
 
 .elementor-464 .elementor-element.elementor-element-2109d93e .elementor-image img {
-    width: 74%;
+    width: 63%;
     max-width: 100%;
 }
 
@@ -586,7 +586,8 @@ body.rtl .elementor-464 .elementor-element.elementor-element-54b39806 {
 .elementor-464 .elementor-element.elementor-element-31b971b8 {
     margin-top: 60px;
     margin-bottom: 160px;
-    padding: 40px 0px 60px 0px;
+    padding: 60px 0px 60px 0px;
+    background-color: #383dbe;
 }
 
 .elementor-bc-flex-widget .elementor-464 .elementor-element.elementor-element-de206bb.elementor-column .elementor-column-wrap {
@@ -599,7 +600,7 @@ body.rtl .elementor-464 .elementor-element.elementor-element-54b39806 {
 }
 
 .elementor-464 .elementor-element.elementor-element-55a4e2df .elementor-heading-title {
-    color: #181A48;
+    color: #ffffff;
     font-family: "Poppins", Sans-serif;
     font-size: 40px;
     font-weight: 400;
@@ -648,7 +649,7 @@ body.rtl .elementor-464 .elementor-element.elementor-element-54b39806 {
 }
 
 .elementor-464 .elementor-element.elementor-element-4c7692c0 .elementor-heading-title {
-    color: #7A7A7A;
+    color: #fff;
     font-family: "Poppins", Sans-serif;
     font-size: 15px;
     font-weight: 300;
@@ -683,7 +684,7 @@ body.rtl .elementor-464 .elementor-element.elementor-element-54b39806 {
 }
 
 .elementor-464 .elementor-element.elementor-element-542dccc8 .elementor-heading-title {
-    color: #7A7A7A;
+    color: #fff;
     font-family: "Poppins", Sans-serif;
     font-size: 15px;
     font-weight: 300;
@@ -718,7 +719,7 @@ body.rtl .elementor-464 .elementor-element.elementor-element-54b39806 {
 }
 
 .elementor-464 .elementor-element.elementor-element-76a9d526 .elementor-heading-title {
-    color: #7A7A7A;
+    color: #fff;
     font-family: "Poppins", Sans-serif;
     font-size: 15px;
     font-weight: 300;
@@ -1534,7 +1535,7 @@ body.rtl .elementor-464 .elementor-element.elementor-element-6981c2fd {
 }
 
 .elementor-464 .elementor-element.elementor-element-34ca3406 {
-    text-align: left;
+    text-align: center;
     z-index: 5;
 }
 
