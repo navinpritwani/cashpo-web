@@ -132,10 +132,12 @@
     border-width: 1px 1px 1px 1px;
     border-color: #EDEDF8;
     border-radius: 2px 2px 2px 2px;
+    width: 300px;
 }
 
 .elementor-section.elementor-section-boxed > .elementor-container {
     max-width: 1140px;
+    margin-bottom: 18px;
 }
 
  {

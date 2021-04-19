@@ -303,3 +303,8 @@ body:not(.rtl) .elementor-382 .elementor-element.elementor-element-56efa840 .ele
         width: 28.07%;
     }
 }
+
+.font-custom {
+    font-size: 18px !important;
+    font-weight: 600 !important;
+}

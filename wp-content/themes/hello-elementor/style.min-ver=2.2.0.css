@@ -540,6 +540,7 @@ ul.slides {
     -khtml-user-select: none;
     -webkit-user-select: none;
     -webkit-touch-callout: none;
+    text-align: left;
 }
 
 ul.slides input {
@@ -562,8 +563,6 @@ ul.slides input {
 }
 
 .slide-image img {
-    width: auto;
-    min-width: 100%;
     height: 100%;
 }
 
@@ -612,7 +611,7 @@ ul.slides input {
     left: 0;
     right: 0;
     text-align: center;
-    bottom: 0px;
+    bottom: -60px;
     z-index: 999;
 }
 

@@ -29,6 +29,7 @@
 .elementor-379 .elementor-element.elementor-element-478c32af .elementor-image img {
     max-width: 120%;
     width: 120%;
+    padding-top: 12px;
 }
 
 .elementor-379 .elementor-element.elementor-element-557ce291 > .elementor-element-populated {
@@ -235,11 +236,11 @@ body.rtl .elementor-379 .elementor-element.elementor-element-305a42a1 .elementor
     font-weight: 400;
     letter-spacing: 0.5px;
     fill: rgba(255, 255, 255, 0.87);
-    color: #174f79;
-    background-color: rgba(255, 255, 255, 0);
+    color: #fff;
+    background-color: #ef8233;
     border-style: solid;
     border-width: 1.5px 1.5px 1.5px 1.5px;
-    border-color: #174f79;
+    border-color: #ffffff;
     border-radius: 50px 50px 50px 50px;
     padding: 016px 036px 016px 036px;
 }
